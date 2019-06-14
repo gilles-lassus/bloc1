@@ -13,7 +13,7 @@ Ceci n'est pas un cours de Python <!-- .element: class="strong" -->
   [variés](https://en.wikipedia.org/wiki/List_of_programming_languages)
   de par leurs
   [syntaxes](https://rosettacode.org/wiki/Sorting_algorithms/Quicksort)
-  et leurs sémantiques.
+  et leurs sémantiques,
 
 - Les styles de programmations sont
   [multiples](https://en.wikipedia.org/wiki/Programming_paradigm) et
