@@ -12,6 +12,7 @@
 
 ```python
 foo = 2 * 3          # foo contient 6
+bar = 4               # bar contient 4
 ```
 
 - L'**évaluation** renvoie la valeur actuellement référencée. \
