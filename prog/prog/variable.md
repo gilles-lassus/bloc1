@@ -38,6 +38,7 @@ modifiée mais `x` ne change pas d’id.
 - Avec des valeurs immutables (nombres, tuples, chaînes), seule
   l’affectation peut modifier une variable. \
   $\Rightarrow$ l'aliasing se fait sans risque.
+  $\sum_1^3x^2$
 
 
 
